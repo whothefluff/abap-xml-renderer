@@ -25,3 +25,8 @@ which implements _ZIF_XML_RENDERER_ and handles internal tables, structures, and
 ### Example
 
 You can run class _ZCL_XML_SIMPLE_RENDERER_EG_APP_ to see how a short XML file can be generated.
+
+
+# dependencies:
+  - https://github.com/whothefluff/abap-exceptions
+  - https://github.com/whothefluff/abap-messages
